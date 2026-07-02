@@ -3,7 +3,7 @@ title: Apartment Move-In Checklist
 description: Shared move-in checklist for Omar & Mia — setup, move-in day, keys, address changes, and more. Both are on the lease.
 tags: [checklist, moving, apartment, shared]
 ---
-
+Shagun Singh
 # 🏠 Apartment Move-In Checklist
 
 > [!NOTE]
