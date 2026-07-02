@@ -31,13 +31,14 @@ Do these in the **2–3 weeks before** the move so nothing lapses on day one.
 - [ ] **(Either)** Set up / transfer **renters insurance** (many leases require it — get proof before keys)
 - [ ] **(Either)** Arrange **home / apartment security** if wanted (or note building's existing system)
 
-### Logistics & planning
-- [ ] **(Both)** Book **movers** or reserve a **moving truck / van** (confirm elevator or loading-dock reservation with the building)
-- [ ] **(Both)** Confirm building **move-in rules**: elevator booking, allowed hours, certificate of insurance from movers, parking for the truck
-- [ ] **(Both)** Do a **change-of-address with the postal service** so mail forwards (see Section 4)
-- [ ] **(Each)** Take **time off work** / block the calendar for move day
-- [ ] **(Both)** Measure doorways & large furniture — make sure the couch/bed actually fits
-- [ ] **(Both)** Order any **furniture / appliances** you need on day one (bed, fridge if unfurnished) with delivery timed to arrival
+### Logistics & planning DONE
+
+- [x] **(Both)** Book **movers** or reserve a **moving truck / van** (confirm elevator or loading-dock reservation with the building)
+- [x] **(Both)** Confirm building **move-in rules**: elevator booking, allowed hours, certificate of insurance from movers, parking for the truck
+- [x] **(Both)** Do a **change-of-address with the postal service** so mail forwards (see Section 4)
+- [x] **(Each)** Take **time off work** / block the calendar for move day
+- [x] **(Both)** Measure doorways & large furniture — make sure the couch/bed actually fits
+- [x] **(Both)** Order any **furniture / appliances** you need on day one (bed, fridge if unfurnished) with delivery timed to arrival
 
 ### Packing
 - [ ] **(Both)** Get boxes, tape, bubble wrap, markers
