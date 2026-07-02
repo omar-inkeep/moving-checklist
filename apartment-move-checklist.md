@@ -110,6 +110,9 @@ Do these in the **2–3 weeks before** the move so nothing lapses on day one.
 > [!TIP]
 > Start with the **postal forwarding** first — it catches anything you forget. Then work down this list. Many are **(Each)** because you each have your own accounts; shared bills are **(Either)**.
 
+> [!IMPORTANT]
+> **Moving to a different state?** The driver's license, vehicle registration, voter registration, and taxes items below come with **legal deadlines** and extra steps. See the companion [Changing States — Complete Move Guide](./changing-states-guide.md) for the full state-switch playbook.
+
 ### Government & official
 - [ ] **(Each)** **Postal service** change-of-address / mail forwarding
 - [ ] **(Each)** **Driver's license / state ID**
