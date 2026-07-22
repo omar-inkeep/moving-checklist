@@ -57,3 +57,5 @@
 #
 # appearance:
 #   theme: system            # 'light' | 'dark' | 'system'
+autoSync:
+  default: true
